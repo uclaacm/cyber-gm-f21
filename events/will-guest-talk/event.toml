@@ -1,0 +1,8 @@
+id = 4
+title = "Will Guest Talk: Cryptographic Attacks"
+short = "Will Guest Talk" 
+date = "Thursday 4/29 7:00PM-9:00PM PT"
+description = """You’ve learned the cryptography, now it’s time to break it. Tune in Week 5 to learn about classic attacks on AES, RSA, and other systems.
+"""
+link = "https://ucla.zoom.us/j/91966478406?pwd=clg2cEI4aWlMbTRzSys5ZmRnV3Y0Zz09"
+slides = "http://links.uclaacm.com/cyber-attacks-s21"
