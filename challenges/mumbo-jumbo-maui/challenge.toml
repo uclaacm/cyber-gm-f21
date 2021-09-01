@@ -1,0 +1,12 @@
+slug = "mumbo-jumbo-maui"
+title = "Mumbo Jumbo Maui"
+author = "Stephen"
+value = 20
+description = """Maui was stuck on an island for 1000 years with nothing to eat or drink except vinegar...
+so, now everything he tries to say comes out sounding like some cryptic vinegar gibberish.
+
+see if you can figure out what he's trying to say [here](maui.txt)"""
+tags = ["ez"]
+files = ["maui.txt"]
+flag = "flag{you're_momloll}"
+enabled = true
