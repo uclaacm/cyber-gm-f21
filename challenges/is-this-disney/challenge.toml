@@ -4,6 +4,6 @@ author = "joSHREK"
 value = 15
 description = "wait... so you're telling me shrek isn't disney??? thank goodness my shrek pic is HIDDEN"
 tags = [ "feedback" ]
-files = [ "is-this-disney.zip" ]
+files = [ "is_this_disney.zip" ]
 flag = "flag{this_is_my_swamp}"
 enabled = true
