@@ -7,7 +7,7 @@ description = """Princess Ariel has just found out about this thing humans call 
 Her mermaid senses were tingling, since the url didn’t seem to have the word \"goolge\" in it and instead had her name. She asked Prince Eric about this strange link, and within seconds, he identified this as a series of url redirects.
 
 What’s is the number of redirects and the second to last url? Format your answer in the form flag{number_url}. For example, \"http://safetyschool.org\" redirects to \"http://www.yale.edu/\" which redirects to \"https://www.yale.edu/\". The flag would be flag{2_http://www.yale.edu/}"""
-tags = ["Web - Easy"]
+tags = ["Web"]
 files = []
 flag = "flag{5_http://gogole.com/}"
 enabled = false
