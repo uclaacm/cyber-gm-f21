@@ -1,9 +1,0 @@
-slug = "matts-secret"
-title = "Matt's Secret"
-author = "Luke"
-value = 15
-description = """My friend Matt sent me [this](matt.png) excellent picture and told me there's something special about it. Care to help me find out?"""
-tags = ["file"]
-files = ["matt.png"]
-flag = "flag{1sN'T_m4Tt_c0OL}"
-enabled = true
