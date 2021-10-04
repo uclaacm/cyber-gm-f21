@@ -1,0 +1,9 @@
+slug = "reflections"
+title = "reflections"
+author = "Jerry"
+value = 20
+description = """🎵 When will my [reflection](mulan.txt) show, who I am insiiiiiide? 🎵 Separate the words with underscores, you'll know the order when you see it 😉"""
+tags = ["gm"]
+files = ["mulan.txt"]
+flag = "flag{let's_get_down_to_business}"
+enabled = true
